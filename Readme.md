@@ -11,3 +11,10 @@
 |<https://www.xinli001.com/>|心理付费教程|
 |<https://jianwai.youdao.com/index/0>|网易见外工作台|视频剪辑用得到|
 |<https://song.postudy.cn/#/music/playlist>|在线音乐|
+|<https://www.zaixianai.cn/voiceCompose>|在线语音合成、语音转文字|优质|
+|<https://notevibes.com/cabinet.php>|文本转语音（国外）|
+|<https://www.coder.work/text2audio>|在线语音合成|
+|<https://my.vultr.com/>|按小时计费VPS|
+|<https://www.zhujiceping.com/>|主机测评|
+|<https://adzhp.cn/>|爱达杂货铺|
+
