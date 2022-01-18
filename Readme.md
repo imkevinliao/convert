@@ -18,5 +18,6 @@
 |<https://www.zhujiceping.com/>|主机测评|
 |<https://adzhp.cn/>|爱达杂货铺|
 |<https://www.cnblogs.com/nickchen121/p/10718112.html>|Python从入门到放弃|
+|<https://oj.rnd.huawei.com/problems/all>|HW上机|
 
 
