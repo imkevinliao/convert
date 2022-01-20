@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Convert URL</title>
+    <style>
+        #form {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form id="form">
+        <label for="origin">Origin</label>
+        <textarea name="origin" id="" cols="30" rows="10"></textarea>
+        <label for="result">Result</label>
+        <textarea name="result" id="" cols="30" rows="10"></textarea>
+        <button id="buttonConvert">Convert</button>
+        <button id="buttonCopy">Copy</button>
+        <button id="buttonOpen">Open at new tab</button>
+    </form>
+
+    <script>
+
+        // Reference: 
+        // https://developer.mozilla.org/zh-CN/docs/Web/API/URL
+        // https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array
+        // https://developer.mozilla.org/zh-CN/docs/Web/API/EventTarget/addEventListener
+        // https://developer.mozilla.org/zh-CN/docs/Web/API/Clipboard/writeText
+        // https://developer.mozilla.org/zh-CN/docs/Web/API/Window/open
+
+        function convertURL(url) {
+            let urlObject = new URL(url);
+
+            if (urlObject && urlObject.hostname != 'github.com') {
+                // 
+                return '';
+            }
+
+            urlObject.hostname = 'raw.githubusercontent.com';
+            urlObject.pathname = urlObject.pathname.split('/').filter(word => word != 'blob').join('/');
+
+            return urlObject.toString();
+        }
+
+        var form = document.getElementById('form');
+        var buttonConvert = document.getElementById('buttonConvert');
+        var buttonCopy = document.getElementById('buttonCopy');
+        var buttonOpen = document.getElementById('buttonOpen');
+
+        buttonConvert.addEventListener('click', function (event) {
+            event.preventDefault();
+            form.result.value = convertURL(form.origin.value);
+        });
+
+        buttonCopy.addEventListener('click', function (event) {
+            event.preventDefault();
+            navigator.clipboard.writeText(form.result.value).then(() => {
+                alert('Coppied! Result URL: ' + form.result.value);
+            });
+        });
+
+        buttonOpen.addEventListener('click', function (event) {
+            event.preventDefault();
+            window.open(form.result.value, '_blank');
+        });
+
+    </script>
+</body>
+
+</html>
