@@ -21,3 +21,4 @@
 |<https://oj.rnd.huawei.com/problems/all>|华为上机练习|内网|
 |<http://ilearning.huawei.com/>|华为课程学习|
 |<https://51.ruyo.net/>|如有乐享|信息|
+|<https://github.com/imkevinliao/V2Ray_ws-tls_bash_onekey>|v2ray script|
