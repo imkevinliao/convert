@@ -18,7 +18,5 @@
 |<https://www.zhujiceping.com/>|主机测评|
 |<https://adzhp.cn/>|爱达杂货铺|
 |<https://www.cnblogs.com/nickchen121/p/10718112.html>|Python从入门到放弃|
-|<https://oj.rnd.huawei.com/problems/all>|华为上机练习|内网|
-|<http://ilearning.huawei.com/>|华为课程学习|
 |<https://51.ruyo.net/>|如有乐享|信息|
 |<https://github.com/wulabing/V2Ray_ws-tls_bash_onekey>|v2ray script|
