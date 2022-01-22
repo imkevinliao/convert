@@ -20,3 +20,4 @@
 |<https://www.cnblogs.com/nickchen121/p/10718112.html>|Python从入门到放弃|
 |<https://51.ruyo.net/>|如有乐享|信息|
 |<https://github.com/wulabing/V2Ray_ws-tls_bash_onekey>|v2ray script|
+|<https://www.edrawsoft.cn/download-edrawmax.html>|亿图图示|Visio替代品|
