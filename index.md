@@ -1,2 +1,2 @@
 # valuable_website
-index.html is a website for converting url.  
+index.html is a html for converting url.  
