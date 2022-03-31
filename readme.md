@@ -25,3 +25,4 @@
 |<https://c.runoob.com/front-end/854/>|正则表达式测试|工具|
 |<https://docs.rsshub.app/>|RSS|阅读|
 |<https://github.com/XIU2/TrackersListCollection/>|XIU2/TrackersListCollection|BitTorrent Tracker 列表|
+|<https://www.faststone.org/>|FastStone Image Viewer|看图工具|
