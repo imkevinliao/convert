@@ -26,3 +26,4 @@
 |<https://docs.rsshub.app/>|RSS|阅读|
 |<https://github.com/XIU2/TrackersListCollection/>|XIU2/TrackersListCollection|BitTorrent Tracker 列表|
 |<https://www.faststone.org/>|FastStone Image Viewer|看图工具|
+|<https://mobaxterm.mobatek.net/>|MobaXterm 类似putty，xshell|终端工具|
