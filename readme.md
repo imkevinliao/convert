@@ -27,4 +27,4 @@
 |<https://github.com/XIU2/TrackersListCollection/>|XIU2/TrackersListCollection|BitTorrent Tracker 列表|
 |<https://www.faststone.org/>|FastStone Image Viewer|看图工具|
 |<https://mobaxterm.mobatek.net/>|MobaXterm 类似putty，xshell|终端工具|
-|<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|学习|
+|<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|
