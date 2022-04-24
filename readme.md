@@ -31,3 +31,4 @@
 |<https://www.nyam.pe.kr/dev/imagine/>|看图工具|
 |<https://mobaxterm.mobatek.net/>|MobaXterm 类似putty，xshell|终端工具|
 |<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|
+|<https://www.alexa.com/find-similar-sites>|alexa find similar website|
