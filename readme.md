@@ -1,6 +1,9 @@
 # Github
 [Github获取源文件内容](https://imkevinliao.github.io/valuable_website/)
+
 [有价值的Github项目](./project.md)
+
+
 # 有价值的网站
 |网址|描述|其他|
 |:---|:---:|:---:|
@@ -32,3 +35,4 @@
 |<https://mobaxterm.mobatek.net/>|MobaXterm 类似putty，xshell|终端工具|
 |<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|
 |<https://www.alexa.com/find-similar-sites>|alexa find similar website|
+|<https://redian.news/>|新闻|
