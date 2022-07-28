@@ -36,3 +36,4 @@
 |<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|
 |<https://www.alexa.com/find-similar-sites>|alexa find similar website|
 |<https://redian.news/>|新闻|
+|<https://www.markdown.xyz/basic-syntax/#overview>|markdown 语法参考|
