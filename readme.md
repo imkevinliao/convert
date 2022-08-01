@@ -33,6 +33,7 @@
 |<https://www.faststone.org/>|FastStone Image Viewer|看图工具|
 |<https://www.nyam.pe.kr/dev/imagine/>|看图工具|
 |<https://mobaxterm.mobatek.net/>|MobaXterm 类似putty，xshell|终端工具|
+|<http://www.q-dir.com/>|工具 四个窗口（多窗口文件浏览器)|
 |<https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html>|Django Tutorial|
 |<https://www.alexa.com/find-similar-sites>|alexa find similar website|
 |<https://redian.news/>|新闻|
