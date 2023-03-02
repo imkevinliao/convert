@@ -7,6 +7,7 @@
 # 有价值的网站
 |网址|描述|备注|
 |:---|:---:|:---:|
+|<https://www.advancedrenamer.com/>|重命名工具||
 |[Click Here](https://wiki.biligame.com/ys/%E8%A7%92%E8%89%B2%E7%AA%81%E7%A0%B4%E6%9D%90%E6%96%99%E4%B8%80%E8%A7%88)|原神突破材料一览|游戏|
 |<http://www.i-mofang.com/bb_24.shtml>|魔方教程|
 |<http://gsxt.amr.gd.gov.cn/index>|国家企业信用公示|天眼查的数据来源|
