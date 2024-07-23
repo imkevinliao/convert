@@ -66,9 +66,9 @@
 
         buttonCopy.addEventListener('click', function (event) {
             event.preventDefault();
-            // navigator.clipboard.writeText(form.result.value).then(() => {
-            //     alert('Coppied! Result URL: ' + form.result.value);
-            // });
+            navigator.clipboard.writeText(form.result.value).then(() => {
+                // alert('Coppied! Result URL: ' + form.result.value);
+            });
         });
 
         buttonOpen.addEventListener('click', function (event) {
